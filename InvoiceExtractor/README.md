@@ -1,0 +1,1 @@
+This AIAgent extracts information from any uplaoded document/file image and provides answer for any questions based on the uploaded invoice image.  It uses a Gemini model.  The requirement file for all the needed libraries is also provided in the folder.
